@@ -7,10 +7,10 @@ public class ThreeClass {
 	double multiResult=0;
 	
 		for (int i=0;i<num.length;i++){
-			sumresult += num[i];
+			sumResult += num[i];
 			multiResult *= num[i];
-		System.out.println("The sum of numbers are: "+sumresult);
-		System.out.printlin("The multiplies of numbers are: "+multiResult);
+		System.out.println("The sum of numbers are: "+sumResult);
+		System.out.println("The multiplies of numbers are: "+multiResult);
 		}	
 		
 
